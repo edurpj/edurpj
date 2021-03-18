@@ -1,4 +1,4 @@
-# Sou Eduardo Ribeiro!  ![enter image description here](https://www.imagensanimadas.com/data/media/231/lobo-imagem-animada-0109.gif)
+# I´m Eduardo Ribeiro!  ![enter image description here](https://www.imagensanimadas.com/data/media/231/lobo-imagem-animada-0109.gif)
 
 ### My   social networks
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edurpj/)](https://www.linkedin.com/in/edurpj/)
