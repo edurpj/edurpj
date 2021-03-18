@@ -1,4 +1,11 @@
-### Hi there 👋
+# Sou Eduardo Ribeiro!  ![enter image description here](https://www.imagensanimadas.com/data/media/231/lobo-imagem-animada-0109.gif)
+
+### My   social networks
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edurpj/)](https://www.linkedin.com/in/edurpj/)
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edurpj3@gmail.com)](mailto:edurpj3@gmail.com)
+## Skills
+![skills](https://user-images.githubusercontent.com/69088210/111705659-d55df380-881f-11eb-8be5-f4c6e1500b62.png)
 
 <!--
 **edurpj/edurpj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
